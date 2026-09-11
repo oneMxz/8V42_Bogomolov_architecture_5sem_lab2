@@ -1,0 +1,3 @@
+C:/lab5sem/Architektura/build/CMakeFiles/lab2_archi.dir
+C:/lab5sem/Architektura/build/CMakeFiles/edit_cache.dir
+C:/lab5sem/Architektura/build/CMakeFiles/rebuild_cache.dir
